@@ -4,10 +4,6 @@
   <b>Software Engineering Student | Python & Backend Developer | Aspiring GameDev</b>
 </p>
 
-<p align="center">
-  <a href="https://t.me/@elirmmmmm"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -35,17 +31,7 @@
 ### 📌 Highlights & Featured Works
 
 🤖 **Telegram bot `BNote`**  
-`A productivity Telegram bot designed for structured note-taking and fast knowledge capturing. Built with Python.`
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELirmmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELirmmm&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="49%" />
-</p>
-
+A productivity Telegram bot designed for structured note-taking and fast knowledge capturing. Built with Python.
 
 ---
 
