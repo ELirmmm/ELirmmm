@@ -34,21 +34,18 @@
 
 ### 📌 Highlights & Featured Works
 
-> 🤖 **Telegram bot `BNote`**  
-> A productivity Telegram bot designed for structured note-taking and fast knowledge capturing. Built with Python.
+🤖 **Telegram bot `BNote`**  
+`A productivity Telegram bot designed for structured note-taking and fast knowledge capturing. Built with Python.`
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELirmmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELirmmm&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ELirmmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELirmmm&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELirmmm&theme=tokyonight&hide_border=true" width="97%" />
-</p>
 
 ---
 
