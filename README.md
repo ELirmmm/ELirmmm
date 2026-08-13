@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/ТВОЙ_НИК" target="_blank">[ELirm]</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/ТВОЙ_НИК" target="_blank">ELirm</a> 👋</h1>
 
 <p align="center">
   <b>Software Engineering Student | Python & Backend Developer | Aspiring GameDev</b>
